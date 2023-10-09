@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: io.logz.logback:logzio-logback-appender:1.0.24" type="java-imported" external-system-id="Maven">
+    <properties groupId="io.logz.logback" artifactId="logzio-logback-appender" version="1.0.24" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/logz/logback/logzio-logback-appender/1.0.24/logzio-logback-appender-1.0.24.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/logz/logback/logzio-logback-appender/1.0.24/logzio-logback-appender-1.0.24-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/logz/logback/logzio-logback-appender/1.0.24/logzio-logback-appender-1.0.24-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
